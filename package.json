@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run lint &&  webpack serve --mode=development --open --hot",
     "build": "npm run lint && webpack --mode=production",
-    "lint": "npx stylelint \"**/*.scss\" && eslint --ext .js"
+    "lint": "npx stylelint \"**/*.scss\" && eslint src/**/*.js"
   },
   "repository": {
     "type": "git",
