@@ -2,6 +2,12 @@
 
 This app is in response of the test for Levo
 
+## Customization
+Cards.json in root of repository controls the content of cards. It is a replacement for mock api. Currently there are 6 cards. Input captures the number of cards and click on Read More button changes the cards to be dsiplayed. UI is designed, is strictly as per the given requirements. If there are any changes expected, please let me know.
+
+## Installation
+
+npm i
 
 ## Available Scripts
 
@@ -10,7 +16,7 @@ In the project directory, you can run:
 ### `npm run start`
 
 Runs the app in the development mode.\
-Open [http://localhost:8080](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8080] to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
