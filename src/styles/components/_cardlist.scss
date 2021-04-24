@@ -1,0 +1,34 @@
+.content-container {
+  background-color: $fontcolor;
+  font-family: $font-family;
+  @include media-breakpoint-up(lg) {
+    .padding-div {
+      display: none;
+    }
+  }
+  @include media-breakpoint-down(xl) {
+    .padding-div {
+      display: block;
+    }
+  }
+
+  .title-text {
+    @include titletext;
+    color: #dc3545;
+  }
+
+  .description-text {
+    @include descriptiontext;
+  }
+}
+
+.bottom-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-top: 1rem;
+}
+
+.input-text {
+  margin-left: 2rem;
+}

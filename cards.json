@@ -1,0 +1,61 @@
+{
+  "boxtitle": "Related Articles",
+  "boxtext": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ligula tellus. Vivamus a orci at lectus mattis dignissim. Nulla ullamcorper leo et dolor varius accumsan vitae et dui. Proin semper maximus tortor sed posuere. Nunc ultrices accumsan diam. Suspendisse iaculis dui libero, ut porttitor mi bibendum ut. Praesent a quam mattis, luctus lacus sit amet, ullamcorper diam. Praesent eu convallis nibh. In ac ligula et mauris finibus auctor. Nunc tristique fringilla condimentum. Ut a ultricies sapien, eget efficitur nisi. Curabitur sodales ligula et volutpat bibendum. Vestibulum nec dui vel augue mattis aliquam vitae eu mi. In hac habitasse platea dictumst.",
+  "defaultcards": 3,
+  "cards": [
+    {
+      "id": 1,
+      "cardDate": "28 Sep 2020",
+      "title": "Title 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. quis blandit dolor congue. Vivamus a orci at lectus.",
+      "buttonText": "Read More",
+      "bgcolor": "#cd2026",
+      "color": "#ffffff"
+    },
+    {
+      "id": 2,
+      "cardDate": "29 Sep 2020",
+      "title": "Title 2",
+      "description": "Consectetur adipiscing elit. Sed ac ligula tellus. Vivamus a orci at lectus mattis dignissim.",
+      "buttonText": "Read More",
+      "bgcolor": "#2e8540",
+      "color": "#ffffff"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "cardDate": "30 Sep 2020",
+      "description": "Proin sed augue placerat felis eleifend varius. Maecenas dictum varius urna, vel sagittis tortor pellentesque quis.",
+      "buttonText": "Read More",
+      "bgcolor": "#205493",
+      "color": "#ffffff"
+    },
+    {
+      "id": 4,
+      "cardDate": "1 Oct 2020",
+      "title": "Title 4",
+      "description": "Donec posuere nulla quis nunc congue, quis blandit dolor congue. Vivamus ac ipsum faucibus, eleifend odio quis.",
+      "buttonText": "Read More",
+      "bgcolor": "#046b99",
+      "color": "#ffffff"
+    },
+    {
+      "id": 5,
+      "cardDate": "2 Oct 2020",
+      "title": "Title 5",
+      "description": "Nunc pharetra magna lectus, quis sodales augue dignissim a. Nullam quis dictum quam. Phasellus nunc elit.",
+      "buttonText": "Read More",
+      "bgcolor": "#112e51",
+      "color": "#ffffff"
+    },
+    {
+      "id": 6,
+      "cardDate": "3 Oct 2020",
+      "title": "Title 6",
+      "description": "Duis bibendum at lacus vitae egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+      "buttonText": "Read More",
+      "bgcolor": "#5b616b",
+      "color": "#ffffff"
+    }
+  ]
+}

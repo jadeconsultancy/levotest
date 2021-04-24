@@ -1,0 +1,31 @@
+.cards {
+  @include make-col-ready();
+  @include make-col(12);
+  @include cardmarginbottom;
+
+  @include media-breakpoint-up(sm) {
+    @include make-col(6);
+    @include cardmarginbottom;
+  }
+  @include media-breakpoint-up(lg) {
+    @include make-col(4);
+    @include cardmarginbottom;
+  }
+
+  .singlecard {
+    margin-right: 0.5rem;
+    height: 100%;
+  }
+
+  .zeroborder {
+    border: none;
+  }
+
+  .title-text {
+    @include titletext;
+  }
+
+  .description-text {
+    @include descriptiontext;
+  }
+}

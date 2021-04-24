@@ -1,0 +1,21 @@
+// -----------------------------------------------------------------------------
+// This file contains mixins.
+// -----------------------------------------------------------------------------
+@import "_variables";
+
+@mixin leftalign {
+  text-align: left;
+}
+
+@mixin cardmarginbottom {
+  margin-bottom: 2rem;
+}
+
+@mixin titletext {
+  @include leftalign;
+  padding-top: 3rem;
+}
+
+@mixin descriptiontext {
+  @include leftalign;
+}
