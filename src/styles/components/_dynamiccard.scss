@@ -2,7 +2,6 @@
   @include make-col-ready();
   @include make-col(12);
   @include cardmarginbottom;
-
   @include media-breakpoint-up(sm) {
     @include make-col(6);
     @include cardmarginbottom;
